@@ -1,4 +1,4 @@
-# GTA-PHP meet-up, November 09//2023
+# GTA-PHP meet-up, November 09/2023
 
 - food and beverages sponsored by 7shifts.com
 - thank you to Luke Galea, and to 7shifts, for making this meet-up happe!
