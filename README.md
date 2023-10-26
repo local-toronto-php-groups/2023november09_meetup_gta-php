@@ -7,7 +7,9 @@
 Meetup.com listing: [https://www.meetup.com/gta-php-user-group-toronto/events/296531813/](https://www.meetup.com/gta-php-user-group-toronto/events/296531813/)
 
 ## 
-- YouTube video by PHP Annotated: [Deprecations in PHP 8.3](https://www.youtube.com/watch?v=mGf_ShkSdmE)
+- YouTube videos by PHP Annotated:
+  - [Deprecations in PHP 8.3](https://www.youtube.com/watch?v=mGf_ShkSdmE)
+  - [What's new in PHP 8.3](https://www.youtube.com/watch?v=nJFsD0bnlTI)
   
 ##
 Presentation 1:
