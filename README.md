@@ -1,6 +1,6 @@
 # GTA-PHP meet-up, November 09/2023
 
-- food and beverages sponsored by 7shifts.com
+- food and beverages sponsored by [7shifts.com](https://www.7shifts.com)
 - thank you to Luke Galea, and to 7shifts, for making this meet-up happe!
 
 ##
@@ -20,8 +20,9 @@ Presentation 1:
 ##
 Presentation 2:
 - Bob Bloom
-- A Hater's Guide to PHP Application Servers (subject to change!)
+- A Hater's Guide to PHP Application Servers
 
 ##
 Note-able Links:
+- [https://www.techopedia.com/definition/3925/high-level-language-hll](https://www.techopedia.com/definition/3925/high-level-language-hll)
 
