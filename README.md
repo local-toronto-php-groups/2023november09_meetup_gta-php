@@ -8,6 +8,7 @@
 - each meet-up has its own repo.. for general itinerary and notes, for post-meet-up notes and pics
 - thank you to Lukasz for doing his presentation, and for taking on quite the presentation schedule
 - our December meet-up is at YTZ International, in either the first or second week of December. To be confirmed.
+- our January 25th meet-up is at Microsoft Canada. Go to our meetup.com for the link to Microsoft to register. 
 
 ##
 Meetup.com listing: [https://www.meetup.com/gta-php-user-group-toronto/events/296531813/](https://www.meetup.com/gta-php-user-group-toronto/events/296531813/)
