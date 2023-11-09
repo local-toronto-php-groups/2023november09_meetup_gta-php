@@ -2,6 +2,10 @@
 
 - food and beverages sponsored by [7shifts.com](https://www.7shifts.com)
 - thank you to Luke Galea, and to 7shifts, for making this meet-up happen!
+- washrooms
+- GitHub organization: "local-toronto-php-groups"
+- I did an update YouTube video. The link is in this Org's readme
+- each meet-up has its own repo.. for general itinerary and notes, for post-meet-up notes and pics
 
 ##
 Meetup.com listing: [https://www.meetup.com/gta-php-user-group-toronto/events/296531813/](https://www.meetup.com/gta-php-user-group-toronto/events/296531813/)
