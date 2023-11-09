@@ -6,6 +6,8 @@
 - GitHub organization: "local-toronto-php-groups"
 - I did an update YouTube video. The link is in this Org's readme
 - each meet-up has its own repo.. for general itinerary and notes, for post-meet-up notes and pics
+- thank you to Lukasz for doing his presentation, and for taking on quite the presentation schedule
+- our December meet-up is at YTZ International, in either the first or second week of December. To be confirmed.
 
 ##
 Meetup.com listing: [https://www.meetup.com/gta-php-user-group-toronto/events/296531813/](https://www.meetup.com/gta-php-user-group-toronto/events/296531813/)
