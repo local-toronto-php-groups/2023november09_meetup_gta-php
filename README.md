@@ -34,3 +34,11 @@ Note-able Links:
 - [https://www.techopedia.com/definition/3925/high-level-language-hll](https://www.techopedia.com/definition/3925/high-level-language-hll)
 - [RoadRunner - What Is It?](https://roadrunner.dev/docs/intro-about/current/en)
 
+![Richmond-Adelaide Centre](/IMG_1253.png)
+![Lobby, 130 Adelaide Street West](/IMG_1257.png)
+![17th floor, elevators](/IMG_1258.png)
+![Welcome Hour](/IMG_1259.png)
+![Welcome Hour](/IMG_1260.png)
+![Setting up](/IMG_1261.png)
+![Lukasz presenting](/IMG_1262.png)
+
