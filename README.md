@@ -33,6 +33,7 @@ Presentation 2:
 Note-able Links:
 - [https://www.techopedia.com/definition/3925/high-level-language-hll](https://www.techopedia.com/definition/3925/high-level-language-hll)
 - [RoadRunner - What Is It?](https://roadrunner.dev/docs/intro-about/current/en)
+- [YouTube videos about OpenSwoole by @jacked-php](https://www.youtube.com/@jacked-php/videos_
 
 ![Richmond-Adelaide Centre](/IMG_1253.png)
 ![Lobby, 130 Adelaide Street West](/IMG_1257.png)
